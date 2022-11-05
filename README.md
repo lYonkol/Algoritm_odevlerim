@@ -6,7 +6,8 @@
 4.ödev Gireln bir n sayısana kadar olan tek sayıların toplamını bulan program
 5.ödev Çarpma operatörü kullanmadan çarpma işlemi yapan program 
 6.ödev Girelen bir n sayısına kadar olan sayılarının karelerinin toplamını bulan program
-                            4.Hafta ödevleri
+
+                              4.Hafta ödevleri
 1.Kullanıcıdan metre olarak alınan uzunluğu kullanıcının istediği birime çeviren program
 2.Kullanıcıdan alınan bir sayının pozitif mi negatif mi yoksa 0 mı olduğunu kontrol eden program
 3.Kullanıcıdan alınan bir sayıyı ters çevirip ekrana yazdıran program
